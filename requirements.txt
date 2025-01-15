@@ -1,0 +1,2 @@
+tk
+PyAutoGUI==0.9.54
